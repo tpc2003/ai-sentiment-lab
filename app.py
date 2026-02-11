@@ -3,7 +3,7 @@ from textblob import TextBlob
 
 st.set_page_config(page_title="My AI Lab", page_icon="🧠")
 
-st.title("🧠 AI for Sentiment Analysis")
+st.title(":brain: AI for Sentiment Analysis (CD TEST v1)")
 st.write(
     "Enter an English message in the box below, and AI will determine "
     "whether it's Positive or Negative"
